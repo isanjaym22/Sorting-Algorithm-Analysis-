@@ -38,3 +38,9 @@ Graphs and tables are used to visualize the findings.
 ---
 
 ## 📂 File Structure  
+📁 Sorting-Algorithm-Analysis
+├── 📜 sorting_algorithms.c # Main C program
+├── 📜 results.csv # Output file containing execution times & comparisons
+├── 📜 README.md # Project documentation
+├── 📜 report.docx # Detailed report (if included)
+└── 📜 LICENSE # Optional (if you add a license)
